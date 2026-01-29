@@ -1,5 +1,4 @@
-OOPS Banner App
-Project Overview
+
 The OOPS Banner App is a Java console-based application developed to demonstrate core Object-Oriented Programming (OOPS) concepts along with a structured Git/GitFlow-based development process.
 
 The application prints banner-style patterns and is enhanced incrementally through multiple Use Cases (UCs). Each use case represents a new improvement, refactoring, or concept addition to the application.
